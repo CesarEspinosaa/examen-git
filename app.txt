@@ -1,5 +1,11 @@
 instagram
 wasap
+<<<<<<< HEAD
 Pou
 Pokemon Go
 tinder
+=======
+facebook
+goggle
+modificado
+>>>>>>> hotfix/bug
